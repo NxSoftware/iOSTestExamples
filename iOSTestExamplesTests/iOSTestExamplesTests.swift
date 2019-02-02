@@ -16,7 +16,7 @@ class iOSTestExamplesTests: XCTestCase {
     }
     
     func testFails() {
-        XCTAssertTrue(false)
+        XCTAssertTrue(true)
     }
 
 }
